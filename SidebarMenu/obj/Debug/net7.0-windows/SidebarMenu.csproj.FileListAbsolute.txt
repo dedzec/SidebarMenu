@@ -1,0 +1,17 @@
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\bin\Debug\net7.0-windows\SidebarMenu.exe
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\bin\Debug\net7.0-windows\SidebarMenu.deps.json
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\bin\Debug\net7.0-windows\SidebarMenu.runtimeconfig.json
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\bin\Debug\net7.0-windows\SidebarMenu.dll
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\bin\Debug\net7.0-windows\SidebarMenu.pdb
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.Form1.resources
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.Properties.Resources.resources
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.csproj.GenerateResource.cache
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.AssemblyInfoInputs.cache
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.AssemblyInfo.cs
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.csproj.CoreCompileInputs.cache
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.dll
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\refint\SidebarMenu.dll
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.pdb
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\SidebarMenu.genruntimeconfig.cache
+C:\Users\Dedzec\Documents\ProjectsVS\SidebarMenu\SidebarMenu\obj\Debug\net7.0-windows\ref\SidebarMenu.dll
